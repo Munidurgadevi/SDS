@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/pages/index.html"
+      "destination": "/sparkden_work1_mod/pages/index.html"
     }
   ]
 }
